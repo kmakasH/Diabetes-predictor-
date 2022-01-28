@@ -1,5 +1,5 @@
 # Diabetes Prediction - My Future Ready Project
-Hey there, My name is Prahalad Krishna. As a part of my internship project, i made a diabetic predictor using ML, Azure web app and much more
+Hey there, My name is Akash km. As a part of my internship project, i made a diabetic predictor using ML, Azure web app and much more
 • This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft___ Azure.# diabetes_predictor
 The project helps the user to identify whether someone is suffering from diabetes by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.
 
